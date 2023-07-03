@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Iris</h1>
 <h3 align="center">A passionate learner of front-end developer</h3>
 
-- 🔭 I’m currently working on **my full-stack developer courses**
+- 🔭 I will graduate the course of **my full-stack developer courses** at AC
 
 - 🌱 I’m currently learning **about React**
 
